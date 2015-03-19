@@ -1,6 +1,6 @@
 #HTML & CSS Lab (complete)
 
-You can find the lab here: https://github.com/HK-WDI-November-2014/html-css-project
+You can find the lab here: https://github.com/WDI-HK-7/html-css-lab
 
 Great work on the lab today! Here's a possible solution; feel free to take a peek at the code. 
 
